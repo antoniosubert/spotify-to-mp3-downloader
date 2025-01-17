@@ -1,0 +1,62 @@
+.track-list {
+  margin: 20px 0;
+  padding: 20px;
+}
+
+.track-list-message {
+  text-align: center;
+  padding: 20px;
+  color: #666;
+}
+
+.track-list-message.error {
+  color: #e74c3c;
+}
+
+.track-card {
+  display: flex;
+  align-items: center;
+  background: white;
+  border-radius: 8px;
+  padding: 15px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  margin-bottom: 15px;
+  gap: 20px;
+}
+
+.track-image {
+  width: 120px;
+  height: 120px;
+  border-radius: 4px;
+  object-fit: cover;
+  flex-shrink: 0;
+  display: block;
+  background-color: rgba(0, 0, 0, 0.1);
+}
+
+.track-info {
+  margin-left: 20px;
+  flex-grow: 1;
+}
+
+.track-title {
+  margin: 0 0 8px 0;
+  font-size: 1.2rem;
+  color: #1db954;
+}
+
+.track-artist {
+  margin: 0 0 4px 0;
+  font-weight: 500;
+}
+
+.track-album {
+  margin: 0 0 4px 0;
+  color: #666;
+}
+
+.track-duration {
+  margin: 0;
+  color: #888;
+  font-size: 0.9rem;
+}

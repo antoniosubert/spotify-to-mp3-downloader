@@ -1,0 +1,47 @@
+.App {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.container {
+  background-color: #f9f9f9;
+  min-height: 100vh;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+  color: #1db954;
+  margin-bottom: 30px;
+}
+
+.error-message {
+  color: #dc3545;
+  text-align: center;
+  padding: 10px;
+  margin: 10px 0;
+  background-color: #ffe6e6;
+  border-radius: 4px;
+}
+
+.loading {
+  text-align: center;
+  color: #666;
+  padding: 20px;
+}
+
+.track-container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+@media (max-width: 768px) {
+  .App {
+    padding: 10px;
+  }
+
+  .track-container {
+    padding: 0 10px;
+  }
+}
