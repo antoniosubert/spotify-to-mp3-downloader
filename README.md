@@ -176,11 +176,4 @@ This project is intended for **educational purposes only**. Downloading copyrigh
 
 ```
 
----
-
-### Key Sections
-1. **Setup Instructions**: Step-by-step guide for backend and frontend setup.
-2. **Usage**: Explains how to use the tool and where to find the downloaded MP3 files.
-3. **Troubleshooting**: Covers common errors and their fixes.
-4. **Disclaimer**: Protects you from legal implications.
 ```
