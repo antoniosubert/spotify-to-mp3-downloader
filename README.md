@@ -163,17 +163,3 @@ spotify-to-mp3-downloader/
 Contributions are welcome! Feel free to open issues or submit pull requests to enhance the project.
 
 ---
-
-## License
-
-This project is licensed under the MIT License. See `LICENSE` for details.
-
----
-
-## Disclaimer
-
-This project is intended for **educational purposes only**. Downloading copyrighted content without proper authorization is illegal and violates the terms of service of Spotify and YouTube. Use this tool responsibly.
-
-```
-
-```
