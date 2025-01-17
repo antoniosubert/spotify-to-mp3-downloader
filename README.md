@@ -1,8 +1,3 @@
-Here’s a professional `README.md` file for your Spotify-to-MP3 downloader project. It includes all essential sections like setup, usage, and disclaimers.
-
----
-
-````markdown
 # Spotify to MP3 Downloader 🎵
 
 This project allows users to input a Spotify track URL, fetch its metadata using the Spotify API, search for the corresponding song on YouTube, and download the audio as an MP3 file using `yt-dlp` and `FFmpeg`.
@@ -189,4 +184,3 @@ This project is intended for **educational purposes only**. Downloading copyrigh
 3. **Troubleshooting**: Covers common errors and their fixes.
 4. **Disclaimer**: Protects you from legal implications.
 ```
-````
